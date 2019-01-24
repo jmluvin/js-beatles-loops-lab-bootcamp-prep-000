@@ -18,7 +18,7 @@ return newfacts;
 function iLoveTheBeatles(number) {
   var love = [];
   do { love.push("I love the Beatles!");
-  Number++;}
-  while (Number < 15);
+  number++;}
+  while (number < 15);
   return love;
 }
